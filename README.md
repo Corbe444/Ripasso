@@ -1,1 +1,1 @@
-# Ripasso
+Creare una pagina con 1 quadrato e 2 pulsanti uno rosso e uno verde, cliccando il pulsante rosso il quadrato diventa rosso e viceversa
